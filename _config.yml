@@ -14,7 +14,7 @@ toc: false #  Whether to show the table of contents in articles
 fancybox: true
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-113061573-1
 favicon: /favicon.png
 
 # Share
